@@ -14,4 +14,8 @@ contract Counter {
     function viewNumber() public view returns (uint256) {
         return number;
     }
+
+    function add(uint b) public pure {
+        number + b;
+    }
 }
