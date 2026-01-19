@@ -19,5 +19,7 @@ contract Counter {
         number + b;
     }
 
-    function mul(uint b) public pure {}
+    function mul(uint b) public pure {
+        number *
+    }
 }
