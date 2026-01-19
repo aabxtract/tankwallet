@@ -11,5 +11,5 @@ contract Counter {
     function increment() public {
         number++;
     }
-    function viewNumber() 
+    function viewNumber() public 
 }
