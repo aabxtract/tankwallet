@@ -12,6 +12,6 @@ contract Counter {
         number++;
     }
     function viewNumber() public view returns (uint256) {
-        ruturn number;
+        return number;
     }
 }
