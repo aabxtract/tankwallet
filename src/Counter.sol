@@ -15,7 +15,5 @@ contract Counter {
         return number;
     }
 
-    function add(uint b) public pure {
-        number 
-    }
+    function add(uint b) public pure {}
 }
