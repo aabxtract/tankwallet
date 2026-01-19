@@ -20,6 +20,6 @@ contract Counter {
     }
 
     function mul(uint b) public pure {
-        number *
+        number * b;
     }
 }
