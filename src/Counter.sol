@@ -15,5 +15,5 @@ contract Counter {
         return number;
     }
 
-   (uint b) public pure {}
+   {}
 }
