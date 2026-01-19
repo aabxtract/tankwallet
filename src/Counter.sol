@@ -11,5 +11,7 @@ contract Counter {
     function increment() public {
         number++;
     }
-    function viewNumber() public view returns (uint256)
+    function viewNumber() public view returns (uint256) {
+        ruturn number;
+    }
 }
