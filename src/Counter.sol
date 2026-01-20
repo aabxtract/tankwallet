@@ -8,6 +8,6 @@ contract Counter {
         number++;
     }
 
- function retrieve()
+ function retrieve() public returns
 
 }
