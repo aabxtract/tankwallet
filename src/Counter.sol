@@ -7,4 +7,7 @@ contract Counter {
     function setNumber(uint _number) public {
         number++;
     }
+
+ function retrieve()
+
 }
