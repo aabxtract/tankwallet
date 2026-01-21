@@ -8,5 +8,5 @@ contract Counter {
         number++;
     }
 
-    function retrieve() public returns (uint)
+    function retrieve() pic returns (uint) {}
 }
