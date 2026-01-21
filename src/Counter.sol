@@ -8,5 +8,5 @@ contract Counter {
         number++;
     }
 
-    functitrieve() public retu
+    function retrieve() public returns 
 }
