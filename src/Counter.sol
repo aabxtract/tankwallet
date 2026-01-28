@@ -5,4 +5,10 @@ contract Counter {
     uint public number;
 
     function setNumber(uint _number) public {
-        numbe
+        number = _number;
+    }
+
+    function increment() public {
+        number += 1;
+    }
+}
