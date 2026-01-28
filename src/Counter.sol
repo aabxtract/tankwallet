@@ -5,4 +5,4 @@ contract Counter {
     uint public number;
 
     function setNumber(uint _number) public {
-        num
+        nu
